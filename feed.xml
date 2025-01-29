@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Vector Biology Lab</title>
-    <link href="https://vlab.github.io/feed.xml" rel="self" />
-    <link href="https://vlab.github.io" />
+    <link href="https://vlab-github-io.pages.dev/feed.xml" rel="self" />
+    <link href="https://vlab-github-io.pages.dev" />
     <updated>2025-01-29T22:29:10+08:00</updated>
     <author>
         <name>San</name>
     </author>
-    <id>https://vlab.github.io</id>
+    <id>https://vlab-github-io.pages.dev</id>
 
     <entry>
         <title>蛇年首记</title>
         <author>
             <name>San</name>
         </author>
-        <link href="https://vlab.github.io/she-nian-shou-ji.html"/>
-        <id>https://vlab.github.io/she-nian-shou-ji.html</id>
+        <link href="https://vlab-github-io.pages.dev/she-nian-shou-ji.html"/>
+        <id>https://vlab-github-io.pages.dev/she-nian-shou-ji.html</id>
 
         <updated>2025-01-29T22:29:10+08:00</updated>
             <summary>
