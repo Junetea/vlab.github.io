@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vlab.github.io/sitemap.xml

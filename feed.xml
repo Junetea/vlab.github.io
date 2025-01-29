@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vector Biology Lab</title>
+    <link href="https://vlab.github.io/feed.xml" rel="self" />
+    <link href="https://vlab.github.io" />
+    <updated>2025-01-29T22:29:10+08:00</updated>
+    <author>
+        <name>San</name>
+    </author>
+    <id>https://vlab.github.io</id>
+
+    <entry>
+        <title>蛇年首记</title>
+        <author>
+            <name>San</name>
+        </author>
+        <link href="https://vlab.github.io/she-nian-shou-ji.html"/>
+        <id>https://vlab.github.io/she-nian-shou-ji.html</id>
+
+        <updated>2025-01-29T22:29:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                    博客开了又关，关了又开，日记也是一样，一直没有持久坚持下来。学习不难，持续学习也不难，难的是思考和输出。这么多年了，不喜欢输出的习惯已经严重影响到自己的很多方面了。又是新的一年，蛇年下定决心，必须每天坚持输出。尽量做到最好，哪怕是写一段也是成功！ 加油！蛇年一定会不一样！🐍
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>博客开了又关，关了又开，日记也是一样，一直没有持久坚持下来。学习不难，持续学习也不难，难的是思考和输出。这么多年了，不喜欢输出的习惯已经严重影响到自己的很多方面了。又是新的一年，蛇年下定决心，必须每天坚持输出。尽量做到最好，哪怕是写一段也是成功！</p>
+<p>加油！蛇年一定会不一样！🐍</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
